@@ -1,0 +1,34 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://www.suzy.com/trust-center
+url: https://www.suzy.com/trust-center
+portal: https://trust.suzy.com/
+certifications:
+- SOC 2 Type 2
+- ISO 27001
+- ISO 27701
+- ISO 42001
+- ESOMAR
+evidence:
+- source: https://www.suzy.com/trust-center
+  keywords:
+  - soc 2 type 2
+  - iso 27001
+  - iso 27701
+  - iso 42001
+  - esomar
+  - trust center
+- source: https://www.suzy.com/enterprise-security
+  keywords:
+  - iso 27001
+  - iso 27701
+  - iso 42001
+  - soc 2 type ii
+  - sso
+  - mfa
+  - encryption in transit and at rest
+notes: >-
+  Trust portal at trust.suzy.com (gated, HTTP 403 without auth) provides detailed
+  compliance documentation for RFP / third-party risk review. Data hosted on
+  private Azure infrastructure. GDPR Art. 27 representative named for EU audiences.

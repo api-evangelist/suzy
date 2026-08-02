@@ -1,0 +1,64 @@
+# Suzy – Real‑Time, AI‑Driven Consumer Insights Platform
+> Suzy is an AI‑driven research ecosystem that unifies quant, qual, and proprietary audiences so brands can ask more, guess less, and move at the speed of culture.
+
+## Platform Products
+- [Why Suzy](https://www.suzy.com/why-suzy): Overview of Suzy’s unified, AI‑driven research approach.
+- [Suzy Insights](https://www.suzy.com/suzy-insights): Build surveys and get AI summaries & crosstabs in minutes.
+- [Suzy Live](https://www.suzy.com/suzy-live): Moderated IDIs & focus groups with auto transcripts and highlight reels.
+- [Suzy Speaks](https://www.suzy.com/suzy-speaks): AI‑moderated voice interviews for rich qualitative feedback at scale.
+- [Suzy Signals](https://www.suzy.com/suzy-signals): Trend intelligence that links research to real‑time cultural shifts.
+- [Suzy Audiences](https://www.suzy.com/suzy-audiences): On‑demand access to 1 M+ verified consumers, protected by BIOTIC fraud detection.
+- [AI Suite](https://www.suzy.com/ai-suite): Screeners, summaries, themeing, predictive heatmaps, and more.
+- [Suzy Enterprise](https://www.suzy.com/suzy-enterprise): Governance, unlimited seats, enterprise‑grade support.
+
+## Solutions by Team
+- [Foundational Insights](https://www.suzy.com/teams/foundational)
+- [Innovation & R&D](https://www.suzy.com/teams/innovation)
+- [Marketing & Creative](https://www.suzy.com/teams/marketing)
+- [Shopper & Category](https://www.suzy.com/teams/shopper)
+- [UX / UI Research](https://www.suzy.com/teams/user-interface-user-experience)
+
+## Solutions by Industry
+- [Food & Beverage](https://www.suzy.com/industry/food-and-beverage)
+- [CPG](https://www.suzy.com/industry/cpg)
+- [Finance](https://www.suzy.com/industry/finance)
+- [Media & Entertainment](https://www.suzy.com/industry/media-entertainment)
+- [Retail](https://www.suzy.com/industry/retail)
+- [Tech](https://www.suzy.com/industry/tech)
+
+## Resources & Learning
+- [Content Hub / Blog](https://www.suzy.com/blog) — trends, data stories, and best practices.
+- [Insights Blog Archive](https://www.suzy.com/insights-blog)
+- [Webinars & Events](https://www.suzy.com/blog?type=Webinars)
+- [Speed of Culture Podcast](https://speedofculture.co/)
+- [Suzy Academy](https://academy.suzy.com/)
+- [Trust Center](https://www.suzy.com/trust-center) — security, privacy, compliance.
+- [Help Center](https://support.suzy.com/hc/en-us)
+
+## Case Studies
+- [Case‑Study Hub](https://www.suzy.com/case-studies)
+- [Walmart Realm – Immersive Shopping](https://www.suzy.com/blog/suzy-casestudy-walmartrealm)
+- [Zip – Financial Transparency](https://www.suzy.com/blog/suzy-casestudy-zipco)
+- [Zevia – Flavor Innovation](https://www.suzy.com/blog/suzy-casestudy-zevia)
+- [ChargePoint – EV Driver Insights](https://www.suzy.com/blog/suzy-casestudy-chargepoint)
+- [Genexa – Clean Medicine Campaign](https://www.suzy.com/blog/suzy-casestudy-genexa)
+
+## Company & Press
+- [About Suzy](https://www.suzy.com/about)
+- [People](https://www.suzy.com/people)
+- [Careers](https://www.suzy.com/careers)
+- [Newsroom](https://suzy.com/news/category/Company%2BNews)
+
+## Example Scenarios
+> **Suzy Insights:** A CPG team tests three packaging concepts with 400 shoppers, gets AI summaries, and chooses the winner in 24 hours.  
+> **Suzy Live:** A UX team conducts five remote IDIs, bookmarks pain‑points, and compiles a highlight reel for designers overnight.  
+> **Suzy Speaks:** A beverage brand runs 200 AI voice interviews, uncovering flavor preferences 4× faster than traditional qual.  
+> **Suzy Signals:** A marketing strategist tracks a rising hydration trend and receives weekly alerts plus suggested survey questions.  
+> **Suzy Audiences:** A finance app re‑contacts a custom segment of Gen Z investors for follow‑up questions two weeks after launch.
+
+## Contact
+- Book a demo: https://www.suzy.com/
+- Email: suzy@suzy.com
+- Support ticket: https://support.suzy.com/hc/en-us/requests/new
+
+### Last Updated: 24 July 2025

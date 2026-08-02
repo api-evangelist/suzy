@@ -1,8 +1,27 @@
 aid: suzy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/suzy.png
 name: Suzy
-description: 'Suzy is a company surfaced as a portfolio company of foundry-group and added to the API
-  Evangelist network as a stub for enrichment. Sector: saas. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Suzy is an AI-driven consumer insights platform that unifies quantitative surveys
+  (Suzy Insights), qualitative research (moderated Suzy Live IDIs and AI-moderated
+  Suzy Speaks voice interviews), real-time cultural trend intelligence (Suzy Signals),
+  and on-demand access to 1M+ verified consumers protected by BIOTIC fraud detection
+  (Suzy Audiences). Its AI Suite adds screeners, summaries, themeing, and predictive
+  heatmaps so enterprise brand, product, marketing, shopper, and insights teams can
+  validate ideas and move at the speed of culture. Surfaced as a foundry-group
+  portfolio company and enriched from public web sources; Suzy publishes no public
+  developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/suzy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Saas
+- Consumer Insights
+- Market Research
+- Survey
+- Audiences
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://suzy.com
+- type: Blog
+  url: https://www.suzy.com/blog
+- type: HelpCenter
+  url: https://support.suzy.com/hc/en-us
+- type: TermsOfService
+  url: https://www.suzy.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.suzy.com/privacy-policy
+- type: LLMsTxt
+  url: llms/suzy-llms.txt
+- type: TrustCenter
+  url: security/suzy-trust-center.yml
+- type: Compliance
+  url: security/suzy-trust-center.yml
+- type: DomainSecurity
+  url: security/suzy-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
